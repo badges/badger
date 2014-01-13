@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="66px" height="18px" viewBox="0 1.25 66 18" enable-background="new 0 1.25 66 18" xml:space="preserve">
+<g>
+  <linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="48.5" y1="19.25" x2="48.5" y2="1.25">
+    <stop offset="1" style="stop-color:#dc5f59"/>
+  </linearGradient>
+  <path fill="url(#SVGID_1_)" d="M32,19.25h31c1.657,0,3-1.343,3-3v-12c0-1.657-1.343-3-3-3H32V19.25z"/>
+  <linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="852" y1="-2429.625" x2="852" y2="-2411.7461" gradientTransform="matrix(1 0 0 -1 -836 -2410.5)">
+    <stop offset="1" style="stop-color:#8c8c8c"/>
+  </linearGradient>
+  <path fill="url(#SVGID_2_)" d="M32,19.25H3c-1.657,0-3-1.343-3-3v-12c0-1.657,1.343-3,3-3h29V19.25z"/>
+  <g>
+    <text transform="matrix(1 0 0 1 35 12.8193)" fill="#fff" font-family="'Helvetica'" font-size="10">failing</text>
+  </g>
+  <g>
+    <text transform="matrix(1 0 0 1 5 12.8193)" fill="#fff" font-family="'Helvetica'" font-size="10">build</text>
+  </g>
+</g>
+</svg>
