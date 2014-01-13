@@ -1,2 +1,2 @@
-# Badger
+# Badger [![Build Error](https://rawgithub.com/rafalchmiel/badger/master/static/travis_error.svg)](#) [![Build Failing](https://rawgithub.com/rafalchmiel/badger/master/static/travis_failing.svg)](#) [![Build Passing](https://rawgithub.com/rafalchmiel/badger/master/static/travis_passing.svg)](#) [![Build Pending](https://rawgithub.com/rafalchmiel/badger/master/static/travis_pending.svg)](#) [![Build Unknown](https://rawgithub.com/rafalchmiel/badger/master/static/travis_unknown.svg)](#)
 A server that serves great lookin' status badges for Travis CI (more support in the future).
