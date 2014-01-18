@@ -13,7 +13,9 @@ helpers do
   end
 
   def travis_status(owner, repo)
-    case Client.get("/repos/#{owner}/#{repo}", headers: { 'Accept' => 'application/json; version=2' }).parsed_response['repo']['last_build_state']
+    case Client.get("/repos/#{owner}/#{repo}", headers: {
+      'Accept' => 'application/json; version=2'
+    }).parsed_response['repo']['last_build_state']
     when 'passed' then 'passing'
     when 'failing' then 'failed'
     when 'started' then 'pending'
